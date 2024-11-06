@@ -1,7 +1,7 @@
 Hi 👋 My name is Manal FAROUQI
 ==============================
 
-Software Engineering Student
+Data Analytics and Artificial Intelligence Student
 ----------------------------
 
 * 🌍  I'm based in Morocco - Agadir
