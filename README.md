@@ -1,4 +1,4 @@
-Hi 👋 My name is Manal Farouqi
+Hi 👋 My name is Manal FAROUQI
 ==============================
 
 Software Engineering Student
