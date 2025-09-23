@@ -32,7 +32,7 @@
 
 ### Socials
 
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/manal-farouqi-3b8097229/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
