@@ -1,13 +1,15 @@
-Hi 👋 My name is Manal FAROUQI
-==============================
+<div align="center">
 
-Data Analytics and Artificial Intelligence Student
-----------------------------
+# Hi 👋 My name is Manal FAROUQI
+========================================
+## Data Analytics and Artificial Intelligence Student
+-----------------------------------------------------------------
+🌍 Based in Agadir, Morocco  
+✉️ Contact me at [farouqimanal@gmail.com](mailto:farouqimanal@gmail.com)  
+🧠 Focused on Data Analytics, Artificial Intelligence, and Machine Learning  
+🔧 Learning Cloud Computing, Docker, CI/CD, and Git for deploying and managing AI solutions
 
-* 🌍  Based in Agadir, Morocco
-* ✉️  Contact me at [farouqimanal@gmail.com](mailto:farouqimanal@gmail.com)
-* 🧠  Focused on Data Analytics, Artificial Intelligence, and Machine Learning  
-* 🔧  Learning Cloud Computing, Docker, CI/CD, and Git for deploying and managing AI solutions
+</div>
 
 
 ### Skills
