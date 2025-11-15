@@ -1,6 +1,8 @@
 <div align="center">
 
 # Hi 👋 My name is Manal FAROUQI
+</div>
+
 ========================================
 ## Data Analytics and Artificial Intelligence Student
 -----------------------------------------------------------------
@@ -9,7 +11,7 @@
 🧠 Focused on Data Analytics, Artificial Intelligence, and Machine Learning  
 🔧 Learning Cloud Computing, Docker, CI/CD, and Git for deploying and managing AI solutions
 
-</div>
+
 
 
 ### Skills
