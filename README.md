@@ -3,9 +3,8 @@
 # Hi 👋 My name is Manal FAROUQI
 
 
--------------------------------------------------------------
 ## Data Analytics and Artificial Intelligence Student
------------------------------------------------------------------
+
 
 </div>
 
