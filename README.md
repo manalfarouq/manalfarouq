@@ -2,11 +2,9 @@
 
 # Hi 👋 My name is Manal FAROUQI
 
+</div>
 
 ## Data Analytics and Artificial Intelligence Student
-
-
-</div>
 
 🌍 Based in Agadir, Morocco  
 ✉️ Contact me at [farouqimanal@gmail.com](mailto:farouqimanal@gmail.com)  
