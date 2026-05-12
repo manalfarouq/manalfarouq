@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Manal+%F0%9F%91%BE;Je+construis+des+trucs+avec+l'IA;De+la+data+%E2%86%92+la+prod%2C+tout+le+pipeline;Pixel+art+fan+%26+code+addict" alt="Typing SVG" />
+![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Manal+FAROUQI;AI+%26+Data+Engineer+%7C+Agadir%2C+Morocco;Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision;From+modeling+to+production+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +18,7 @@
 class Manal:
     def __init__(self):
         self.localisation  = "Agadir, Maroc 🌍"
-        self.focus         = ["Machine Learning", "NLP", "RAG", "Computer Vision"]
+        self.domaine       = ["Machine Learning", "Deep Learning", "NLP", "RAG", "Computer Vision"]
         self.stack         = ["Python", "FastAPI", "React", "Docker", "Azure"]
         self.actuellement  = "En train de construire des agents IA 🤖"
         self.fun_fact      = "Mon projet préféré a des agents qui commentent la F1 en temps réel 🏎️"
@@ -22,7 +30,7 @@ class Manal:
 
 [![Languages](https://skillicons.dev/icons?i=python,js,kotlin,java,html,css,react,nextjs,tailwind,fastapi,django,spring&perline=12)](https://skillicons.dev)
 
-[![AI & ML](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch&perline=12)](https://skillicons.dev)<a href="https://huggingface.co" target="_blank"><img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" style="display:none"/></a> [![HuggingFace & YOLO](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co) [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)](https://ultralytics.com)
+[![AI & ML](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch&perline=12)](https://skillicons.dev)
 
 [![DevOps & Cloud](https://skillicons.dev/icons?i=docker,azure,kubernetes,github,git,linux,postgres,mysql,postman,figma,vscode,githubactions&perline=12)](https://skillicons.dev)
 
@@ -35,7 +43,7 @@ class Manal:
 <img src="https://github-readme-stats.vercel.app/api?username=manalfarouq&show_icons=true&count_private=true&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA&bg_color=0d1117&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalfarouq&langs_count=6&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=true&layout=compact" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manalfarouq&stroke=ffffff&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff&currStreakLabel=A78BFA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=manalfarouq&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=ffffff&dates=ffffff&stroke=A78BFA&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
@@ -55,13 +63,5 @@ class Manal:
 <img src="https://komarev.com/ghpvc/?username=manalfarouq&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile views"/>
 
 *ouverte aux collaborations et opportunités ✨*
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
 
 </div>
