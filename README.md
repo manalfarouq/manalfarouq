@@ -1,14 +1,8 @@
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Manal+FAROUQI;AI+%26+Data+Engineer+%7C+Agadir%2C+Morocco;Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision;From+modeling+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+
+![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -30,9 +24,9 @@ class Manal:
 
 [![Languages](https://skillicons.dev/icons?i=python,js,kotlin,java,html,css,react,nextjs,tailwind,fastapi,django,spring&perline=12)](https://skillicons.dev)
 
-[![AI & ML](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch&perline=12)](https://skillicons.dev)
+[![AI & ML](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch,pytest&perline=12)](https://skillicons.dev)
 
-[![DevOps & Cloud](https://skillicons.dev/icons?i=docker,azure,kubernetes,github,git,linux,postgres,mysql,postman,figma,vscode,githubactions&perline=12)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=docker,azure,github,git,linux,postgres,mysql,postman,figma,vscode,githubactions&perline=12)](https://skillicons.dev)
 
 ---
 
@@ -61,7 +55,5 @@ class Manal:
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=manalfarouq&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile views"/>
-
-*ouverte aux collaborations et opportunités ✨*
 
 </div>
