@@ -54,6 +54,4 @@ class Manal:
   <a href="https://github.com/manalfarouq" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=manalfarouq&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile views"/>
-
 </div>
