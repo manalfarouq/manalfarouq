@@ -46,7 +46,7 @@ class Manal:
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=manalfarouq&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&title_color=A78BFA&text_color=e6edf3&icon_color=A78BFA&bg_color=0d1117&hide_border=true" alt="GitHub stats for manalfarouq" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manalfarouq&layout=compact&langs_count=6&disable_animations=true&title_color=A78BFA&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top languages for manalfarouq" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manalfarouq&layout=compact&langs_count=6&disable_animations=true&title_color=A78BFA&text_color=e6edf3&bg_color=0d1117&hide_border=true&exclude_repo=Beauty-Secret" alt="Top languages for manalfarouq" />
 </div>
 
 <div align="center">
