@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Manal+FAROUQI;AI+%26+Data+Engineer+%7C+Agadir%2C+Morocco;Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision;From+modeling+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+
+![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
+
 # Manal Farouqi
 
 **AI & Data Engineer** · Agadir, Morocco
@@ -45,15 +49,8 @@ class Manal:
 ### GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=manalfarouq&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&title_color=A78BFA&text_color=e6edf3&icon_color=A78BFA&bg_color=0d1117&hide_border=true" alt="GitHub stats for manalfarouq" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manalfarouq&layout=compact&langs_count=6&disable_animations=true&title_color=A78BFA&text_color=e6edf3&bg_color=0d1117&hide_border=true&exclude_repo=Beauty-Secret" alt="Top languages for manalfarouq" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-stats-extended.vercel.app/api?username=manalfarouq&show_icons=true&hide_rank=true&hide=contribs&title_color=A78BFA&text_color=e6edf3&icon_color=A78BFA&bg_color=0d1117&hide_border=true" alt="GitHub stats for manalfarouq" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manalfarouq&layout=compact&langs_count=6&title_color=A78BFA&text_color=e6edf3&bg_color=0d1117&hide_border=true&exclude_repo=Beauty-Secret" alt="Top languages for manalfarouq" />
 </div>
 
 ### Contact
