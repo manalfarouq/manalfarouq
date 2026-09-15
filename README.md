@@ -4,12 +4,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/manalfarouq/manalfarouq/output/github-contribution-grid-snake-dark.svg)
 
-# Manal Farouqi
-
-**AI & Data Engineer** · Agadir, Morocco
-
-Machine learning, NLP, RAG, and computer vision — built into APIs and systems that can run in production.
-
 </div>
 
 ```python
