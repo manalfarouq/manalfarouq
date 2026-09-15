@@ -15,23 +15,13 @@ class Manal:
     now = "Building AI agents and production data systems"
 ```
 
-### Skills
+### Languages & Tools
 
-**AI / ML**
+[![Languages](https://skillicons.dev/icons?i=python,js,kotlin,java,html,css,react,nextjs,tailwind,fastapi,django,spring&perline=12)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" />
+[![AI & ML](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch,pytest&perline=12)](https://skillicons.dev)
 
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres" alt="FastAPI, PostgreSQL" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" />
-
-**Cloud / DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,azure,terraform,githubactions,linux,git" alt="Docker, Azure, Terraform, GitHub Actions, Linux, Git" />
+[![DevOps & Cloud](https://skillicons.dev/icons?i=docker,azure,github,git,linux,postgres,mysql,postman,figma,vscode,githubactions&perline=12)](https://skillicons.dev)
 
 ### Selected work
 
